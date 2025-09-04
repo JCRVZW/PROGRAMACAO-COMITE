@@ -7,7 +7,7 @@ print ("A área de ",lado_quadrado,  "é -> " , lado_quadrado*lado_quadrado)
 idade = int (input("Para saber seus meses e dias informe quantos anos de idade tu tens -> "))
 meses = idade*12
 dias = meses*365
-print ("tu tens",meses, "meses e",dias, "dias!")
+print (f"tu tens {meses} meses e {dias} dias!")
 
 numero_media_1 =  float(input("Agora calcularemos a média de três números, diga o número um -> "))
 numero_media_2 =  float(input("Informe o número dois -> "))
