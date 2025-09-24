@@ -1,5 +1,5 @@
 numero = int(input("Informe um número que mostrará o seu antecessor e sucessor -> "))
-sucessor = numero+17
+sucessor = numero+1
 antecessor = numero-1
 
 print (f"o sucessor de {numero} é {sucessor}, e o antecessor é {antecessor}.")
