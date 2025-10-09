@@ -10,6 +10,6 @@ for numero in lista:
         unica.append(numero)
 tupla = tuple(unica)
 
-print (lista)
-print (unica)
+print (*lista)
+print (*unica)
 print (type(tupla))
