@@ -1,4 +1,3 @@
-import random
 opcao = ()
 candidatos = []
 
@@ -9,6 +8,7 @@ while (opcao != 0):
                         'opção 3: Exibir resultados \n'\
                         'opção 0: Sair \n\n' \
                         'Opção -> '))
+    
     
     if opcao == 1:
         temp = []
