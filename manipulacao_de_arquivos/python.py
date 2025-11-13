@@ -1,11 +1,17 @@
-lista = []
-try:
-    with open ("Frutas.txt", "r") as arquivo:
-         arquivo.read()
+def gerar_lista(arquivo):
+    lista = []
+    try:
+        with open (arquivo) as arq:
+            for linha in arq:
+                lista.append(linha.strip())
+            return lista
+    except FileNotFoundError:
+        print("ARQUIVO NADA!!!")
 
-    for fruta in arquivo:
-        lista.append(fruta)
-    print(fruta)
+def main ():
+    lista = []
+    arquivo =  'frutas.txt'
+    lista = gerar_lista(arquivo)
+    print(lista)
 
-except FileNotFoundError:
-    print("ARQUIVO NADA!!!")
+main()
