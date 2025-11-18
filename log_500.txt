@@ -1,0 +1,500 @@
+[2025-11-08 20:29:49] [INFO] [NETWORK] [IP: 114.220.23.187] [USER: 6605] Conexão instável
+[2025-11-08 20:30:59] [ERROR] [UI] [IP: 226.4.242.12] [USER: 2598] Layout atualizado
+[2025-11-08 20:31:19] [ERROR] [DB] [IP: 20.111.236.109] [USER: 8637] Consulta executada
+[2025-11-08 20:31:43] [INFO] [SECURITY] [IP: 134.122.252.185] [USER: 6690] Acesso negado
+[2025-11-08 20:32:24] [ERROR] [STORAGE] [IP: 143.251.169.14] [USER: 1629] Espaço insuficiente
+[2025-11-08 20:33:42] [WARNING] [SECURITY] [IP: 66.46.183.193] [USER: 8046] Alerta de segurança
+[2025-11-08 20:34:06] [WARNING] [CACHE] [IP: 23.62.76.20] [USER: 9529] Cache limpo
+[2025-11-08 20:34:39] [ERROR] [NETWORK] [IP: 58.188.138.124] [USER: 4302] Pacotes perdidos
+[2025-11-08 20:36:03] [ERROR] [UI] [IP: 199.58.188.216] [USER: 7176] Componente renderizado
+[2025-11-08 20:36:41] [WARNING] [STORAGE] [IP: 199.66.143.47] [USER: 5675] Arquivo removido
+[2025-11-08 20:38:05] [ERROR] [DB] [IP: 117.164.197.185] [USER: 1838] Falha ao gravar registro
+[2025-11-08 20:38:10] [ERROR] [API] [IP: 228.183.56.57] [USER: 1660] Resposta enviada
+[2025-11-08 20:39:02] [WARNING] [SECURITY] [IP: 226.210.188.232] [USER: 6576] Integridade validada
+[2025-11-08 20:39:22] [WARNING] [NETWORK] [IP: 234.236.214.187] [USER: 4719] Falha na comunicação
+[2025-11-08 20:40:41] [ERROR] [DB] [IP: 55.252.57.129] [USER: 5089] Transação concluída
+[2025-11-08 20:41:18] [WARNING] [DB] [IP: 16.215.19.90] [USER: 2972] Consulta executada
+[2025-11-08 20:42:19] [ERROR] [AUTH] [IP: 91.134.123.111] [USER: 2543] Token inválido
+[2025-11-08 20:43:40] [ERROR] [STORAGE] [IP: 168.53.119.49] [USER: 6572] Arquivo removido
+[2025-11-08 20:44:45] [WARNING] [API] [IP: 184.167.232.177] [USER: 6381] Resposta enviada
+[2025-11-08 20:45:07] [ERROR] [DB] [IP: 88.103.15.116] [USER: 3868] Falha ao gravar registro
+[2025-11-08 20:46:26] [INFO] [SECURITY] [IP: 59.32.252.32] [USER: 5765] Alerta de segurança
+[2025-11-08 20:47:33] [ERROR] [AUTH] [IP: 152.205.104.184] [USER: 6718] Usuário autenticado
+[2025-11-08 20:48:05] [ERROR] [API] [IP: 255.72.210.23] [USER: 8100] Requisição recebida
+[2025-11-08 20:48:08] [INFO] [UI] [IP: 105.168.189.7] [USER: 8210] Elemento não encontrado
+[2025-11-08 20:48:32] [WARNING] [SECURITY] [IP: 251.54.117.198] [USER: 9605] Acesso negado
+[2025-11-08 20:49:05] [ERROR] [CACHE] [IP: 24.125.1.196] [USER: 4541] Cache inválido
+[2025-11-08 20:49:35] [ERROR] [STORAGE] [IP: 19.173.11.105] [USER: 9859] Arquivo salvo
+[2025-11-08 20:50:53] [WARNING] [AUTH] [IP: 175.142.243.171] [USER: 1999] Falha na autenticação
+[2025-11-08 20:51:07] [WARNING] [STORAGE] [IP: 10.86.191.101] [USER: 3903] Arquivo salvo
+[2025-11-08 20:52:10] [ERROR] [UI] [IP: 147.154.62.202] [USER: 3943] Componente renderizado
+[2025-11-08 20:53:10] [ERROR] [CACHE] [IP: 98.1.234.199] [USER: 9155] Cache inválido
+[2025-11-08 20:53:44] [ERROR] [AUTH] [IP: 16.198.53.18] [USER: 5346] Logout realizado
+[2025-11-08 20:54:47] [ERROR] [CACHE] [IP: 229.238.159.212] [USER: 2333] Cache atualizado
+[2025-11-08 20:56:07] [INFO] [SECURITY] [IP: 180.46.254.132] [USER: 4588] Tentativa suspeita detectada
+[2025-11-08 20:56:58] [WARNING] [API] [IP: 87.11.17.15] [USER: 9136] Parâmetro inválido
+[2025-11-08 20:57:49] [WARNING] [CACHE] [IP: 242.246.54.209] [USER: 3425] Falha no cache
+[2025-11-08 20:59:14] [WARNING] [API] [IP: 227.183.157.138] [USER: 6186] Parâmetro inválido
+[2025-11-08 21:00:13] [WARNING] [API] [IP: 85.99.240.27] [USER: 1449] Timeout na API
+[2025-11-08 21:01:34] [ERROR] [SECURITY] [IP: 133.119.38.221] [USER: 8265] Tentativa suspeita detectada
+[2025-11-08 21:02:50] [INFO] [UI] [IP: 231.129.15.73] [USER: 6469] Layout atualizado
+[2025-11-08 21:02:56] [INFO] [SECURITY] [IP: 40.46.177.107] [USER: 9362] Tentativa suspeita detectada
+[2025-11-08 21:03:14] [INFO] [AUTH] [IP: 164.213.78.63] [USER: 6387] Sessão expirada
+[2025-11-08 21:03:30] [WARNING] [UI] [IP: 71.71.202.126] [USER: 8708] Ação do usuário registrada
+[2025-11-08 21:04:34] [INFO] [NETWORK] [IP: 219.70.108.217] [USER: 8231] Pacotes perdidos
+[2025-11-08 21:05:38] [ERROR] [CACHE] [IP: 37.90.238.161] [USER: 9084] Cache atualizado
+[2025-11-08 21:06:11] [ERROR] [UI] [IP: 4.190.241.3] [USER: 5459] Ação do usuário registrada
+[2025-11-08 21:07:27] [WARNING] [UI] [IP: 115.99.166.216] [USER: 6068] Componente renderizado
+[2025-11-08 21:07:37] [INFO] [CACHE] [IP: 125.28.116.121] [USER: 3923] Falha no cache
+[2025-11-08 21:07:40] [WARNING] [STORAGE] [IP: 66.126.53.72] [USER: 2252] Erro ao acessar armazenamento
+[2025-11-08 21:08:44] [WARNING] [STORAGE] [IP: 51.176.25.194] [USER: 4097] Erro ao acessar armazenamento
+[2025-11-08 21:10:03] [WARNING] [CACHE] [IP: 238.188.149.72] [USER: 4996] Item removido do cache
+[2025-11-08 21:11:18] [ERROR] [SECURITY] [IP: 16.252.16.79] [USER: 3395] Acesso negado
+[2025-11-08 21:12:12] [WARNING] [SECURITY] [IP: 46.101.7.19] [USER: 3265] Alerta de segurança
+[2025-11-08 21:12:58] [INFO] [CACHE] [IP: 118.66.195.237] [USER: 5494] Cache inválido
+[2025-11-08 21:13:37] [ERROR] [NETWORK] [IP: 8.240.40.214] [USER: 9418] Conexão instável
+[2025-11-08 21:14:59] [WARNING] [DB] [IP: 174.66.122.183] [USER: 9675] Consulta executada
+[2025-11-08 21:16:12] [ERROR] [AUTH] [IP: 231.197.144.31] [USER: 8255] Falha na autenticação
+[2025-11-08 21:17:39] [WARNING] [SECURITY] [IP: 249.88.175.155] [USER: 7261] Integridade validada
+[2025-11-08 21:18:14] [ERROR] [CACHE] [IP: 166.138.201.42] [USER: 1161] Falha no cache
+[2025-11-08 21:18:31] [INFO] [NETWORK] [IP: 30.12.221.242] [USER: 5996] Pacotes perdidos
+[2025-11-08 21:19:19] [WARNING] [UI] [IP: 207.185.190.16] [USER: 3922] Ação do usuário registrada
+[2025-11-08 21:20:01] [INFO] [DB] [IP: 132.188.87.194] [USER: 9093] Consulta executada
+[2025-11-08 21:21:17] [INFO] [STORAGE] [IP: 108.48.116.105] [USER: 9281] Espaço insuficiente
+[2025-11-08 21:21:54] [ERROR] [DB] [IP: 82.43.40.139] [USER: 5570] Falha ao gravar registro
+[2025-11-08 21:23:13] [WARNING] [DB] [IP: 223.61.85.251] [USER: 6361] Transação concluída
+[2025-11-08 21:23:15] [INFO] [CACHE] [IP: 93.149.231.177] [USER: 9974] Cache inválido
+[2025-11-08 21:23:58] [WARNING] [NETWORK] [IP: 173.221.30.123] [USER: 9469] Latência elevada
+[2025-11-08 21:24:56] [ERROR] [AUTH] [IP: 71.20.180.223] [USER: 2725] Token inválido
+[2025-11-08 21:25:53] [WARNING] [DB] [IP: 131.127.39.158] [USER: 1059] Falha ao gravar registro
+[2025-11-08 21:26:48] [WARNING] [STORAGE] [IP: 7.48.39.164] [USER: 5088] Arquivo removido
+[2025-11-08 21:27:20] [WARNING] [CACHE] [IP: 110.154.99.107] [USER: 1179] Cache inválido
+[2025-11-08 21:28:06] [WARNING] [UI] [IP: 238.41.28.194] [USER: 6417] Ação do usuário registrada
+[2025-11-08 21:29:21] [INFO] [SECURITY] [IP: 127.130.247.129] [USER: 8266] Alerta de segurança
+[2025-11-08 21:29:35] [ERROR] [NETWORK] [IP: 9.133.156.13] [USER: 6676] Rede reestabelecida
+[2025-11-08 21:30:06] [ERROR] [CACHE] [IP: 217.51.232.48] [USER: 4520] Item removido do cache
+[2025-11-08 21:30:37] [WARNING] [NETWORK] [IP: 42.244.98.30] [USER: 2785] Conexão instável
+[2025-11-08 21:30:44] [ERROR] [AUTH] [IP: 158.41.255.234] [USER: 2056] Falha na autenticação
+[2025-11-08 21:32:11] [INFO] [AUTH] [IP: 186.220.53.135] [USER: 8945] Logout realizado
+[2025-11-08 21:32:28] [WARNING] [NETWORK] [IP: 163.252.143.60] [USER: 6392] Pacotes perdidos
+[2025-11-08 21:33:55] [ERROR] [AUTH] [IP: 162.13.27.32] [USER: 4429] Usuário autenticado
+[2025-11-08 21:35:16] [ERROR] [STORAGE] [IP: 5.76.246.237] [USER: 3062] Backup concluído
+[2025-11-08 21:36:11] [INFO] [AUTH] [IP: 66.81.8.105] [USER: 6061] Sessão expirada
+[2025-11-08 21:37:15] [INFO] [SECURITY] [IP: 206.58.119.57] [USER: 7971] Módulo seguro inicializado
+[2025-11-08 21:37:19] [WARNING] [SECURITY] [IP: 116.241.71.80] [USER: 2564] Tentativa suspeita detectada
+[2025-11-08 21:38:07] [ERROR] [CACHE] [IP: 86.148.127.17] [USER: 9196] Cache limpo
+[2025-11-08 21:39:01] [INFO] [UI] [IP: 60.235.8.161] [USER: 4502] Elemento não encontrado
+[2025-11-08 21:40:29] [INFO] [SECURITY] [IP: 97.180.181.138] [USER: 8117] Módulo seguro inicializado
+[2025-11-08 21:41:10] [WARNING] [STORAGE] [IP: 184.228.67.8] [USER: 5879] Espaço insuficiente
+[2025-11-08 21:42:01] [ERROR] [AUTH] [IP: 179.92.68.158] [USER: 4925] Token inválido
+[2025-11-08 21:43:25] [INFO] [AUTH] [IP: 116.175.131.228] [USER: 7374] Usuário autenticado
+[2025-11-08 21:44:49] [ERROR] [NETWORK] [IP: 58.41.198.142] [USER: 4653] Conexão instável
+[2025-11-08 21:45:20] [ERROR] [AUTH] [IP: 73.107.194.127] [USER: 7506] Token inválido
+[2025-11-08 21:45:58] [ERROR] [SECURITY] [IP: 223.52.136.126] [USER: 6505] Integridade validada
+[2025-11-08 21:46:48] [WARNING] [CACHE] [IP: 134.165.187.214] [USER: 1216] Cache limpo
+[2025-11-08 21:46:54] [ERROR] [CACHE] [IP: 106.95.217.231] [USER: 2404] Cache limpo
+[2025-11-08 21:47:32] [ERROR] [NETWORK] [IP: 247.148.225.79] [USER: 3330] Rede reestabelecida
+[2025-11-08 21:48:43] [WARNING] [API] [IP: 202.35.22.105] [USER: 9484] Parâmetro inválido
+[2025-11-08 21:50:09] [WARNING] [AUTH] [IP: 115.39.71.225] [USER: 7757] Logout realizado
+[2025-11-08 21:50:14] [WARNING] [CACHE] [IP: 202.147.137.73] [USER: 4167] Cache limpo
+[2025-11-08 21:50:59] [ERROR] [DB] [IP: 29.99.116.68] [USER: 7382] Erro no banco de dados
+[2025-11-08 21:51:01] [INFO] [AUTH] [IP: 160.199.67.220] [USER: 5073] Falha na autenticação
+[2025-11-08 21:51:35] [WARNING] [UI] [IP: 165.194.186.9] [USER: 5775] Ação do usuário registrada
+[2025-11-08 21:52:46] [WARNING] [API] [IP: 59.12.146.56] [USER: 4172] Timeout na API
+[2025-11-08 21:53:42] [WARNING] [CACHE] [IP: 48.4.248.215] [USER: 5780] Cache inválido
+[2025-11-08 21:55:05] [WARNING] [AUTH] [IP: 74.250.239.58] [USER: 4021] Token inválido
+[2025-11-08 21:55:40] [ERROR] [UI] [IP: 82.252.137.154] [USER: 2570] Componente renderizado
+[2025-11-08 21:56:01] [INFO] [UI] [IP: 34.52.136.210] [USER: 5558] Layout atualizado
+[2025-11-08 21:57:23] [INFO] [UI] [IP: 76.87.237.126] [USER: 8381] Layout atualizado
+[2025-11-08 21:58:46] [INFO] [UI] [IP: 163.114.196.159] [USER: 9148] Erro no carregamento da interface
+[2025-11-08 21:58:47] [WARNING] [NETWORK] [IP: 87.74.69.148] [USER: 9256] Falha na comunicação
+[2025-11-08 22:00:04] [INFO] [CACHE] [IP: 74.182.206.203] [USER: 5881] Item removido do cache
+[2025-11-08 22:00:14] [INFO] [SECURITY] [IP: 7.105.159.235] [USER: 9215] Acesso negado
+[2025-11-08 22:01:39] [ERROR] [NETWORK] [IP: 165.118.129.212] [USER: 5819] Pacotes perdidos
+[2025-11-08 22:03:01] [INFO] [STORAGE] [IP: 220.37.252.238] [USER: 7143] Arquivo salvo
+[2025-11-08 22:03:49] [WARNING] [API] [IP: 175.237.77.93] [USER: 4408] Timeout na API
+[2025-11-08 22:04:39] [INFO] [STORAGE] [IP: 240.166.60.148] [USER: 2724] Backup concluído
+[2025-11-08 22:05:28] [WARNING] [DB] [IP: 231.104.54.131] [USER: 2081] Erro no banco de dados
+[2025-11-08 22:05:59] [INFO] [API] [IP: 237.46.75.101] [USER: 1333] Timeout na API
+[2025-11-08 22:06:30] [ERROR] [API] [IP: 70.112.66.255] [USER: 5342] Parâmetro inválido
+[2025-11-08 22:07:23] [WARNING] [API] [IP: 221.106.120.74] [USER: 6379] Requisição recebida
+[2025-11-08 22:08:37] [INFO] [SECURITY] [IP: 219.195.50.55] [USER: 3868] Acesso negado
+[2025-11-08 22:08:40] [WARNING] [SECURITY] [IP: 149.122.10.106] [USER: 8626] Alerta de segurança
+[2025-11-08 22:09:25] [ERROR] [NETWORK] [IP: 195.177.81.90] [USER: 1153] Pacotes perdidos
+[2025-11-08 22:09:31] [INFO] [STORAGE] [IP: 202.101.181.85] [USER: 1365] Erro ao acessar armazenamento
+[2025-11-08 22:10:53] [INFO] [CACHE] [IP: 153.17.158.186] [USER: 2895] Cache atualizado
+[2025-11-08 22:11:59] [ERROR] [NETWORK] [IP: 202.14.185.60] [USER: 6410] Latência elevada
+[2025-11-08 22:12:01] [ERROR] [SECURITY] [IP: 153.166.164.153] [USER: 3108] Alerta de segurança
+[2025-11-08 22:12:27] [ERROR] [STORAGE] [IP: 234.68.144.85] [USER: 4410] Arquivo salvo
+[2025-11-08 22:13:45] [WARNING] [SECURITY] [IP: 51.235.105.80] [USER: 9588] Integridade validada
+[2025-11-08 22:14:42] [INFO] [STORAGE] [IP: 112.27.167.175] [USER: 8271] Backup concluído
+[2025-11-08 22:14:45] [WARNING] [NETWORK] [IP: 22.206.223.6] [USER: 2718] Rede reestabelecida
+[2025-11-08 22:14:46] [INFO] [STORAGE] [IP: 97.25.245.184] [USER: 8146] Arquivo removido
+[2025-11-08 22:15:02] [WARNING] [DB] [IP: 50.118.236.193] [USER: 8972] Falha ao gravar registro
+[2025-11-08 22:16:16] [WARNING] [NETWORK] [IP: 14.81.175.69] [USER: 1303] Conexão instável
+[2025-11-08 22:17:43] [WARNING] [DB] [IP: 28.211.67.163] [USER: 6159] Falha ao gravar registro
+[2025-11-08 22:17:52] [WARNING] [UI] [IP: 41.121.88.81] [USER: 8905] Componente renderizado
+[2025-11-08 22:18:50] [WARNING] [API] [IP: 78.169.221.63] [USER: 2183] Timeout na API
+[2025-11-08 22:20:03] [ERROR] [CACHE] [IP: 85.172.174.49] [USER: 5425] Falha no cache
+[2025-11-08 22:21:24] [INFO] [NETWORK] [IP: 100.76.90.238] [USER: 2907] Falha na comunicação
+[2025-11-08 22:22:40] [WARNING] [AUTH] [IP: 92.55.252.83] [USER: 7674] Token inválido
+[2025-11-08 22:22:46] [ERROR] [CACHE] [IP: 129.200.219.169] [USER: 9543] Cache inválido
+[2025-11-08 22:23:31] [INFO] [UI] [IP: 103.136.250.189] [USER: 1480] Erro no carregamento da interface
+[2025-11-08 22:24:46] [WARNING] [SECURITY] [IP: 87.138.172.207] [USER: 7771] Acesso negado
+[2025-11-08 22:25:43] [WARNING] [SECURITY] [IP: 156.75.171.181] [USER: 8590] Módulo seguro inicializado
+[2025-11-08 22:26:35] [INFO] [UI] [IP: 244.97.33.111] [USER: 4436] Layout atualizado
+[2025-11-08 22:26:51] [WARNING] [NETWORK] [IP: 112.39.16.178] [USER: 3082] Rede reestabelecida
+[2025-11-08 22:28:13] [ERROR] [NETWORK] [IP: 173.238.180.201] [USER: 3994] Rede reestabelecida
+[2025-11-08 22:29:09] [WARNING] [STORAGE] [IP: 135.36.248.167] [USER: 5777] Erro ao acessar armazenamento
+[2025-11-08 22:30:00] [WARNING] [AUTH] [IP: 181.212.241.168] [USER: 1246] Falha na autenticação
+[2025-11-08 22:31:22] [INFO] [NETWORK] [IP: 9.87.220.104] [USER: 4489] Falha na comunicação
+[2025-11-08 22:31:48] [INFO] [UI] [IP: 133.224.240.9] [USER: 5790] Ação do usuário registrada
+[2025-11-08 22:33:14] [INFO] [NETWORK] [IP: 200.127.112.23] [USER: 6007] Latência elevada
+[2025-11-08 22:33:27] [INFO] [AUTH] [IP: 99.33.176.236] [USER: 1013] Sessão expirada
+[2025-11-08 22:34:06] [WARNING] [NETWORK] [IP: 207.149.200.145] [USER: 5705] Pacotes perdidos
+[2025-11-08 22:34:16] [INFO] [CACHE] [IP: 167.90.22.120] [USER: 1359] Cache limpo
+[2025-11-08 22:35:19] [WARNING] [CACHE] [IP: 176.141.9.2] [USER: 6610] Cache inválido
+[2025-11-08 22:35:44] [INFO] [API] [IP: 10.100.136.17] [USER: 8242] Resposta enviada
+[2025-11-08 22:36:46] [ERROR] [CACHE] [IP: 239.254.43.182] [USER: 9229] Cache inválido
+[2025-11-08 22:37:51] [INFO] [AUTH] [IP: 3.36.110.39] [USER: 4664] Sessão expirada
+[2025-11-08 22:38:15] [INFO] [NETWORK] [IP: 86.48.225.144] [USER: 4704] Latência elevada
+[2025-11-08 22:38:38] [INFO] [SECURITY] [IP: 204.53.240.39] [USER: 7900] Tentativa suspeita detectada
+[2025-11-08 22:40:08] [INFO] [UI] [IP: 94.200.188.156] [USER: 2654] Ação do usuário registrada
+[2025-11-08 22:40:33] [INFO] [API] [IP: 19.100.251.227] [USER: 1846] Requisição recebida
+[2025-11-08 22:40:43] [ERROR] [UI] [IP: 85.88.36.109] [USER: 7708] Layout atualizado
+[2025-11-08 22:41:04] [INFO] [DB] [IP: 103.186.6.149] [USER: 9330] Falha ao gravar registro
+[2025-11-08 22:41:10] [INFO] [DB] [IP: 226.152.208.114] [USER: 4047] Consulta executada
+[2025-11-08 22:41:53] [WARNING] [STORAGE] [IP: 46.95.212.204] [USER: 6255] Espaço insuficiente
+[2025-11-08 22:43:07] [INFO] [API] [IP: 84.202.1.165] [USER: 1445] Parâmetro inválido
+[2025-11-08 22:44:04] [ERROR] [CACHE] [IP: 18.32.110.145] [USER: 2311] Cache atualizado
+[2025-11-08 22:44:34] [INFO] [DB] [IP: 169.115.235.246] [USER: 9192] Conexão perdida
+[2025-11-08 22:46:01] [WARNING] [STORAGE] [IP: 40.63.80.4] [USER: 3707] Espaço insuficiente
+[2025-11-08 22:46:58] [ERROR] [AUTH] [IP: 185.39.17.151] [USER: 5223] Falha na autenticação
+[2025-11-08 22:48:18] [WARNING] [NETWORK] [IP: 68.220.204.191] [USER: 2889] Conexão instável
+[2025-11-08 22:49:45] [INFO] [STORAGE] [IP: 227.229.98.129] [USER: 5147] Espaço insuficiente
+[2025-11-08 22:50:31] [WARNING] [DB] [IP: 69.239.234.26] [USER: 5520] Conexão perdida
+[2025-11-08 22:51:53] [WARNING] [STORAGE] [IP: 48.67.15.85] [USER: 1503] Arquivo removido
+[2025-11-08 22:52:55] [ERROR] [DB] [IP: 139.117.180.66] [USER: 8261] Erro no banco de dados
+[2025-11-08 22:54:08] [ERROR] [API] [IP: 45.49.70.8] [USER: 3529] Requisição recebida
+[2025-11-08 22:55:30] [WARNING] [API] [IP: 120.145.239.217] [USER: 4476] Resposta enviada
+[2025-11-08 22:56:43] [ERROR] [DB] [IP: 175.155.66.244] [USER: 5603] Consulta executada
+[2025-11-08 22:56:52] [ERROR] [UI] [IP: 255.78.83.1] [USER: 5152] Componente renderizado
+[2025-11-08 22:57:06] [ERROR] [API] [IP: 224.52.135.36] [USER: 2758] Parâmetro inválido
+[2025-11-08 22:57:43] [INFO] [API] [IP: 104.162.25.232] [USER: 8040] Timeout na API
+[2025-11-08 22:58:17] [INFO] [AUTH] [IP: 99.31.142.176] [USER: 5680] Sessão expirada
+[2025-11-08 22:59:14] [ERROR] [CACHE] [IP: 28.4.87.35] [USER: 8053] Falha no cache
+[2025-11-08 23:00:17] [WARNING] [STORAGE] [IP: 122.208.243.206] [USER: 9992] Espaço insuficiente
+[2025-11-08 23:00:48] [INFO] [NETWORK] [IP: 81.154.206.131] [USER: 6394] Pacotes perdidos
+[2025-11-08 23:01:31] [WARNING] [API] [IP: 140.215.227.135] [USER: 9609] Resposta enviada
+[2025-11-08 23:01:39] [ERROR] [SECURITY] [IP: 228.14.217.103] [USER: 3149] Acesso negado
+[2025-11-08 23:02:59] [ERROR] [API] [IP: 117.60.149.38] [USER: 5425] Parâmetro inválido
+[2025-11-08 23:04:01] [ERROR] [API] [IP: 126.40.248.51] [USER: 4696] Falha na comunicação
+[2025-11-08 23:04:51] [WARNING] [AUTH] [IP: 185.171.160.117] [USER: 4658] Logout realizado
+[2025-11-08 23:05:31] [INFO] [CACHE] [IP: 255.191.110.187] [USER: 8360] Item removido do cache
+[2025-11-08 23:06:47] [INFO] [API] [IP: 112.170.106.98] [USER: 2224] Requisição recebida
+[2025-11-08 23:07:00] [WARNING] [API] [IP: 89.148.44.150] [USER: 6585] Timeout na API
+[2025-11-08 23:07:22] [WARNING] [CACHE] [IP: 78.12.11.56] [USER: 8981] Cache atualizado
+[2025-11-08 23:07:51] [WARNING] [NETWORK] [IP: 47.215.86.151] [USER: 7151] Rede reestabelecida
+[2025-11-08 23:07:57] [WARNING] [UI] [IP: 168.217.148.206] [USER: 4383] Erro no carregamento da interface
+[2025-11-08 23:09:24] [ERROR] [CACHE] [IP: 231.155.211.81] [USER: 7163] Cache limpo
+[2025-11-08 23:10:28] [ERROR] [AUTH] [IP: 155.168.215.33] [USER: 1851] Usuário autenticado
+[2025-11-08 23:11:36] [ERROR] [AUTH] [IP: 170.56.53.217] [USER: 7273] Usuário autenticado
+[2025-11-08 23:12:20] [ERROR] [SECURITY] [IP: 214.96.94.205] [USER: 3700] Módulo seguro inicializado
+[2025-11-08 23:12:40] [ERROR] [STORAGE] [IP: 176.208.178.47] [USER: 7811] Arquivo salvo
+[2025-11-08 23:13:08] [WARNING] [STORAGE] [IP: 148.126.174.232] [USER: 7675] Arquivo salvo
+[2025-11-08 23:14:33] [WARNING] [AUTH] [IP: 211.58.213.9] [USER: 5045] Logout realizado
+[2025-11-08 23:15:27] [INFO] [API] [IP: 63.98.140.250] [USER: 2547] Falha na comunicação
+[2025-11-08 23:15:30] [INFO] [NETWORK] [IP: 124.101.88.48] [USER: 3525] Rede reestabelecida
+[2025-11-08 23:15:54] [ERROR] [STORAGE] [IP: 13.181.45.32] [USER: 6620] Backup concluído
+[2025-11-08 23:16:04] [INFO] [DB] [IP: 107.115.96.209] [USER: 3744] Falha ao gravar registro
+[2025-11-08 23:16:28] [WARNING] [DB] [IP: 216.253.147.195] [USER: 1704] Conexão perdida
+[2025-11-08 23:16:48] [INFO] [SECURITY] [IP: 217.20.86.149] [USER: 3725] Módulo seguro inicializado
+[2025-11-08 23:17:39] [ERROR] [STORAGE] [IP: 136.88.237.212] [USER: 2414] Espaço insuficiente
+[2025-11-08 23:19:00] [WARNING] [API] [IP: 98.216.250.163] [USER: 8049] Timeout na API
+[2025-11-08 23:20:07] [ERROR] [AUTH] [IP: 110.104.235.86] [USER: 8202] Sessão expirada
+[2025-11-08 23:20:40] [INFO] [SECURITY] [IP: 27.43.187.73] [USER: 6090] Integridade validada
+[2025-11-08 23:21:03] [WARNING] [API] [IP: 85.185.221.78] [USER: 4702] Parâmetro inválido
+[2025-11-08 23:21:09] [INFO] [API] [IP: 252.165.223.127] [USER: 9215] Falha na comunicação
+[2025-11-08 23:21:14] [WARNING] [DB] [IP: 70.76.196.221] [USER: 6363] Erro no banco de dados
+[2025-11-08 23:21:44] [WARNING] [NETWORK] [IP: 220.79.90.71] [USER: 9488] Pacotes perdidos
+[2025-11-08 23:22:00] [ERROR] [UI] [IP: 151.195.122.13] [USER: 4139] Erro no carregamento da interface
+[2025-11-08 23:22:05] [ERROR] [CACHE] [IP: 204.54.212.176] [USER: 8723] Cache inválido
+[2025-11-08 23:23:21] [INFO] [AUTH] [IP: 38.194.91.251] [USER: 2850] Usuário autenticado
+[2025-11-08 23:23:30] [WARNING] [AUTH] [IP: 6.140.102.49] [USER: 7986] Token inválido
+[2025-11-08 23:23:49] [INFO] [DB] [IP: 60.160.229.240] [USER: 7625] Transação concluída
+[2025-11-08 23:24:48] [INFO] [UI] [IP: 208.237.241.147] [USER: 9470] Erro no carregamento da interface
+[2025-11-08 23:25:43] [ERROR] [DB] [IP: 28.25.163.133] [USER: 2779] Falha ao gravar registro
+[2025-11-08 23:27:11] [INFO] [AUTH] [IP: 48.112.237.136] [USER: 4623] Usuário autenticado
+[2025-11-08 23:27:28] [ERROR] [AUTH] [IP: 76.113.155.87] [USER: 2214] Token inválido
+[2025-11-08 23:28:02] [WARNING] [CACHE] [IP: 77.11.134.222] [USER: 9154] Cache atualizado
+[2025-11-08 23:28:07] [ERROR] [NETWORK] [IP: 52.117.185.237] [USER: 5375] Pacotes perdidos
+[2025-11-08 23:28:24] [ERROR] [AUTH] [IP: 57.233.22.107] [USER: 5204] Token inválido
+[2025-11-08 23:29:16] [ERROR] [SECURITY] [IP: 125.35.114.223] [USER: 3738] Integridade validada
+[2025-11-08 23:29:19] [INFO] [SECURITY] [IP: 132.157.80.29] [USER: 7409] Integridade validada
+[2025-11-08 23:29:44] [INFO] [STORAGE] [IP: 137.141.192.6] [USER: 3163] Arquivo salvo
+[2025-11-08 23:31:04] [ERROR] [AUTH] [IP: 216.240.9.222] [USER: 9039] Token inválido
+[2025-11-08 23:32:28] [INFO] [NETWORK] [IP: 40.201.215.90] [USER: 5480] Pacotes perdidos
+[2025-11-08 23:33:50] [ERROR] [STORAGE] [IP: 62.132.151.70] [USER: 9168] Espaço insuficiente
+[2025-11-08 23:35:15] [ERROR] [AUTH] [IP: 65.157.13.189] [USER: 7765] Logout realizado
+[2025-11-08 23:36:27] [ERROR] [STORAGE] [IP: 141.186.36.228] [USER: 4329] Arquivo salvo
+[2025-11-08 23:37:45] [INFO] [API] [IP: 134.91.15.30] [USER: 3450] Timeout na API
+[2025-11-08 23:38:58] [INFO] [API] [IP: 153.180.17.194] [USER: 8271] Requisição recebida
+[2025-11-08 23:40:20] [INFO] [STORAGE] [IP: 6.10.248.234] [USER: 8303] Arquivo removido
+[2025-11-08 23:40:42] [INFO] [UI] [IP: 167.73.255.122] [USER: 8620] Elemento não encontrado
+[2025-11-08 23:40:50] [WARNING] [AUTH] [IP: 84.29.156.247] [USER: 5108] Logout realizado
+[2025-11-08 23:42:06] [ERROR] [SECURITY] [IP: 238.3.3.188] [USER: 7375] Acesso negado
+[2025-11-08 23:43:28] [ERROR] [STORAGE] [IP: 162.115.94.68] [USER: 9625] Espaço insuficiente
+[2025-11-08 23:44:54] [WARNING] [SECURITY] [IP: 111.161.110.89] [USER: 5958] Módulo seguro inicializado
+[2025-11-08 23:45:27] [ERROR] [AUTH] [IP: 202.169.253.92] [USER: 6628] Falha na autenticação
+[2025-11-08 23:46:36] [INFO] [UI] [IP: 94.133.47.27] [USER: 7274] Elemento não encontrado
+[2025-11-08 23:46:42] [WARNING] [API] [IP: 90.33.134.166] [USER: 5548] Timeout na API
+[2025-11-08 23:47:48] [ERROR] [SECURITY] [IP: 154.86.189.199] [USER: 9148] Tentativa suspeita detectada
+[2025-11-08 23:47:55] [INFO] [API] [IP: 103.81.180.36] [USER: 6931] Resposta enviada
+[2025-11-08 23:48:32] [INFO] [UI] [IP: 180.58.34.183] [USER: 8312] Ação do usuário registrada
+[2025-11-08 23:48:35] [INFO] [UI] [IP: 81.164.32.104] [USER: 3064] Componente renderizado
+[2025-11-08 23:49:56] [ERROR] [SECURITY] [IP: 214.172.32.47] [USER: 1660] Alerta de segurança
+[2025-11-08 23:50:35] [WARNING] [NETWORK] [IP: 57.224.176.180] [USER: 7227] Rede reestabelecida
+[2025-11-08 23:50:47] [INFO] [AUTH] [IP: 132.114.106.231] [USER: 2905] Logout realizado
+[2025-11-08 23:52:03] [WARNING] [SECURITY] [IP: 174.249.110.59] [USER: 7582] Acesso negado
+[2025-11-08 23:53:08] [INFO] [CACHE] [IP: 39.161.45.187] [USER: 7766] Cache inválido
+[2025-11-08 23:53:58] [INFO] [AUTH] [IP: 181.8.236.94] [USER: 6888] Token inválido
+[2025-11-08 23:54:43] [INFO] [UI] [IP: 172.49.25.82] [USER: 9559] Ação do usuário registrada
+[2025-11-08 23:56:05] [WARNING] [NETWORK] [IP: 208.177.157.74] [USER: 7797] Falha na comunicação
+[2025-11-08 23:56:57] [ERROR] [DB] [IP: 131.184.230.146] [USER: 6612] Conexão perdida
+[2025-11-08 23:57:22] [ERROR] [CACHE] [IP: 128.255.38.149] [USER: 4684] Cache inválido
+[2025-11-08 23:57:52] [ERROR] [SECURITY] [IP: 154.220.241.247] [USER: 8010] Alerta de segurança
+[2025-11-08 23:58:16] [INFO] [AUTH] [IP: 148.84.64.166] [USER: 6504] Sessão expirada
+[2025-11-08 23:58:26] [ERROR] [UI] [IP: 23.140.2.25] [USER: 6026] Erro no carregamento da interface
+[2025-11-08 23:59:49] [ERROR] [AUTH] [IP: 63.223.30.135] [USER: 8616] Logout realizado
+[2025-11-09 00:00:51] [ERROR] [UI] [IP: 13.27.34.77] [USER: 4819] Ação do usuário registrada
+[2025-11-09 00:02:20] [INFO] [SECURITY] [IP: 198.227.49.200] [USER: 8559] Alerta de segurança
+[2025-11-09 00:03:08] [INFO] [SECURITY] [IP: 156.97.82.174] [USER: 6740] Acesso negado
+[2025-11-09 00:03:54] [INFO] [API] [IP: 135.114.80.180] [USER: 5100] Resposta enviada
+[2025-11-09 00:04:17] [ERROR] [CACHE] [IP: 6.165.23.238] [USER: 8739] Cache inválido
+[2025-11-09 00:05:23] [WARNING] [AUTH] [IP: 170.62.34.22] [USER: 4837] Falha na autenticação
+[2025-11-09 00:06:19] [ERROR] [NETWORK] [IP: 36.156.183.87] [USER: 6786] Conexão instável
+[2025-11-09 00:07:07] [INFO] [NETWORK] [IP: 244.165.192.2] [USER: 5430] Falha na comunicação
+[2025-11-09 00:08:26] [INFO] [CACHE] [IP: 242.86.87.252] [USER: 1375] Falha no cache
+[2025-11-09 00:09:29] [WARNING] [CACHE] [IP: 116.210.86.98] [USER: 2613] Cache limpo
+[2025-11-09 00:10:49] [ERROR] [NETWORK] [IP: 12.38.222.222] [USER: 1842] Falha na comunicação
+[2025-11-09 00:11:35] [WARNING] [API] [IP: 199.122.180.159] [USER: 7374] Resposta enviada
+[2025-11-09 00:12:26] [INFO] [DB] [IP: 254.142.135.163] [USER: 4240] Transação concluída
+[2025-11-09 00:13:51] [WARNING] [AUTH] [IP: 92.236.97.9] [USER: 7852] Token inválido
+[2025-11-09 00:14:12] [WARNING] [AUTH] [IP: 32.232.124.63] [USER: 9853] Sessão expirada
+[2025-11-09 00:15:26] [ERROR] [UI] [IP: 253.149.48.79] [USER: 6453] Componente renderizado
+[2025-11-09 00:16:20] [WARNING] [SECURITY] [IP: 115.123.214.103] [USER: 3936] Módulo seguro inicializado
+[2025-11-09 00:17:10] [ERROR] [CACHE] [IP: 221.20.196.148] [USER: 3958] Falha no cache
+[2025-11-09 00:18:16] [WARNING] [NETWORK] [IP: 130.183.135.149] [USER: 8204] Falha na comunicação
+[2025-11-09 00:19:28] [INFO] [AUTH] [IP: 201.100.164.200] [USER: 7256] Sessão expirada
+[2025-11-09 00:19:41] [INFO] [SECURITY] [IP: 196.232.78.130] [USER: 5588] Módulo seguro inicializado
+[2025-11-09 00:20:21] [INFO] [NETWORK] [IP: 64.228.231.22] [USER: 5527] Latência elevada
+[2025-11-09 00:21:41] [WARNING] [DB] [IP: 254.42.255.24] [USER: 8073] Erro no banco de dados
+[2025-11-09 00:22:33] [INFO] [SECURITY] [IP: 14.175.23.45] [USER: 9668] Módulo seguro inicializado
+[2025-11-09 00:23:51] [INFO] [UI] [IP: 181.80.235.148] [USER: 9307] Elemento não encontrado
+[2025-11-09 00:23:54] [WARNING] [DB] [IP: 107.117.183.197] [USER: 3459] Erro no banco de dados
+[2025-11-09 00:25:17] [ERROR] [CACHE] [IP: 172.27.70.167] [USER: 2109] Item removido do cache
+[2025-11-09 00:26:44] [ERROR] [API] [IP: 77.45.213.178] [USER: 6608] Timeout na API
+[2025-11-09 00:27:04] [ERROR] [NETWORK] [IP: 209.155.15.23] [USER: 4749] Pacotes perdidos
+[2025-11-09 00:28:28] [ERROR] [NETWORK] [IP: 63.150.243.222] [USER: 6575] Rede reestabelecida
+[2025-11-09 00:29:41] [WARNING] [UI] [IP: 116.241.251.182] [USER: 1754] Componente renderizado
+[2025-11-09 00:31:09] [INFO] [NETWORK] [IP: 249.133.224.203] [USER: 1976] Pacotes perdidos
+[2025-11-09 00:32:15] [INFO] [DB] [IP: 60.33.162.185] [USER: 6717] Conexão perdida
+[2025-11-09 00:33:43] [INFO] [CACHE] [IP: 69.136.225.66] [USER: 1727] Cache inválido
+[2025-11-09 00:34:37] [ERROR] [DB] [IP: 51.225.196.137] [USER: 5971] Falha ao gravar registro
+[2025-11-09 00:35:22] [ERROR] [AUTH] [IP: 51.77.3.119] [USER: 4416] Logout realizado
+[2025-11-09 00:36:04] [WARNING] [STORAGE] [IP: 231.104.37.72] [USER: 7319] Arquivo removido
+[2025-11-09 00:36:12] [ERROR] [AUTH] [IP: 115.117.14.158] [USER: 6472] Usuário autenticado
+[2025-11-09 00:36:49] [INFO] [AUTH] [IP: 109.42.89.254] [USER: 3029] Token inválido
+[2025-11-09 00:38:06] [WARNING] [DB] [IP: 57.203.167.127] [USER: 8293] Conexão perdida
+[2025-11-09 00:39:16] [INFO] [API] [IP: 122.66.233.3] [USER: 5228] Parâmetro inválido
+[2025-11-09 00:40:19] [INFO] [AUTH] [IP: 42.168.198.62] [USER: 2041] Usuário autenticado
+[2025-11-09 00:41:47] [INFO] [AUTH] [IP: 60.136.169.152] [USER: 1223] Logout realizado
+[2025-11-09 00:42:32] [INFO] [DB] [IP: 67.115.100.1] [USER: 5290] Consulta executada
+[2025-11-09 00:42:46] [INFO] [UI] [IP: 195.169.153.223] [USER: 1901] Ação do usuário registrada
+[2025-11-09 00:43:27] [WARNING] [STORAGE] [IP: 115.192.215.11] [USER: 6419] Erro ao acessar armazenamento
+[2025-11-09 00:44:13] [ERROR] [CACHE] [IP: 217.104.108.167] [USER: 9571] Cache atualizado
+[2025-11-09 00:45:16] [WARNING] [AUTH] [IP: 255.89.168.188] [USER: 9754] Token inválido
+[2025-11-09 00:46:03] [INFO] [STORAGE] [IP: 203.168.148.226] [USER: 5275] Arquivo salvo
+[2025-11-09 00:47:32] [INFO] [NETWORK] [IP: 215.252.146.123] [USER: 5652] Falha na comunicação
+[2025-11-09 00:47:38] [ERROR] [DB] [IP: 201.104.179.244] [USER: 3812] Falha ao gravar registro
+[2025-11-09 00:47:52] [INFO] [SECURITY] [IP: 215.56.23.45] [USER: 6081] Acesso negado
+[2025-11-09 00:48:40] [INFO] [STORAGE] [IP: 70.88.211.86] [USER: 5399] Backup concluído
+[2025-11-09 00:48:53] [INFO] [AUTH] [IP: 193.179.205.53] [USER: 1306] Sessão expirada
+[2025-11-09 00:50:21] [WARNING] [API] [IP: 104.220.182.43] [USER: 4835] Parâmetro inválido
+[2025-11-09 00:51:49] [WARNING] [DB] [IP: 42.208.226.194] [USER: 8193] Transação concluída
+[2025-11-09 00:51:54] [INFO] [UI] [IP: 238.220.11.132] [USER: 3173] Elemento não encontrado
+[2025-11-09 00:52:46] [INFO] [SECURITY] [IP: 92.167.80.107] [USER: 6927] Alerta de segurança
+[2025-11-09 00:53:46] [INFO] [SECURITY] [IP: 117.237.95.140] [USER: 2023] Tentativa suspeita detectada
+[2025-11-09 00:54:41] [ERROR] [DB] [IP: 118.39.29.151] [USER: 3288] Erro no banco de dados
+[2025-11-09 00:56:09] [INFO] [CACHE] [IP: 16.175.118.22] [USER: 3112] Cache inválido
+[2025-11-09 00:57:11] [INFO] [UI] [IP: 244.30.27.1] [USER: 8586] Layout atualizado
+[2025-11-09 00:58:23] [INFO] [AUTH] [IP: 90.101.228.7] [USER: 5368] Token inválido
+[2025-11-09 00:59:30] [WARNING] [UI] [IP: 80.15.168.190] [USER: 8930] Elemento não encontrado
+[2025-11-09 00:59:51] [INFO] [NETWORK] [IP: 161.107.209.232] [USER: 2152] Pacotes perdidos
+[2025-11-09 01:00:17] [INFO] [CACHE] [IP: 62.130.215.56] [USER: 2491] Cache limpo
+[2025-11-09 01:00:20] [WARNING] [UI] [IP: 209.245.2.39] [USER: 8037] Layout atualizado
+[2025-11-09 01:01:35] [WARNING] [DB] [IP: 99.211.103.240] [USER: 4740] Falha ao gravar registro
+[2025-11-09 01:01:43] [WARNING] [STORAGE] [IP: 167.43.150.147] [USER: 9038] Backup concluído
+[2025-11-09 01:02:18] [WARNING] [API] [IP: 128.57.17.142] [USER: 6300] Parâmetro inválido
+[2025-11-09 01:02:25] [ERROR] [SECURITY] [IP: 214.223.178.54] [USER: 9565] Alerta de segurança
+[2025-11-09 01:02:34] [INFO] [DB] [IP: 77.13.86.167] [USER: 6978] Transação concluída
+[2025-11-09 01:02:45] [INFO] [SECURITY] [IP: 242.43.153.124] [USER: 5555] Tentativa suspeita detectada
+[2025-11-09 01:03:36] [WARNING] [CACHE] [IP: 225.251.100.1] [USER: 9780] Cache limpo
+[2025-11-09 01:04:29] [ERROR] [API] [IP: 200.27.31.42] [USER: 5686] Parâmetro inválido
+[2025-11-09 01:05:34] [INFO] [DB] [IP: 31.230.85.113] [USER: 6945] Transação concluída
+[2025-11-09 01:05:47] [INFO] [DB] [IP: 229.157.246.62] [USER: 2675] Falha ao gravar registro
+[2025-11-09 01:06:08] [INFO] [AUTH] [IP: 51.54.134.252] [USER: 3737] Sessão expirada
+[2025-11-09 01:06:41] [WARNING] [UI] [IP: 233.47.197.42] [USER: 2866] Erro no carregamento da interface
+[2025-11-09 01:08:04] [INFO] [UI] [IP: 58.65.92.236] [USER: 9900] Elemento não encontrado
+[2025-11-09 01:08:59] [WARNING] [AUTH] [IP: 71.101.221.112] [USER: 1084] Falha na autenticação
+[2025-11-09 01:09:05] [INFO] [NETWORK] [IP: 207.155.101.1] [USER: 2493] Pacotes perdidos
+[2025-11-09 01:10:01] [INFO] [STORAGE] [IP: 111.204.113.177] [USER: 3785] Arquivo removido
+[2025-11-09 01:11:01] [WARNING] [SECURITY] [IP: 229.22.70.154] [USER: 1389] Alerta de segurança
+[2025-11-09 01:11:37] [ERROR] [CACHE] [IP: 22.34.159.114] [USER: 7230] Cache inválido
+[2025-11-09 01:12:26] [INFO] [DB] [IP: 171.152.92.186] [USER: 8823] Falha ao gravar registro
+[2025-11-09 01:13:12] [ERROR] [UI] [IP: 109.58.36.68] [USER: 2411] Layout atualizado
+[2025-11-09 01:13:50] [ERROR] [API] [IP: 25.4.182.77] [USER: 1162] Timeout na API
+[2025-11-09 01:15:06] [INFO] [UI] [IP: 130.142.219.234] [USER: 7246] Ação do usuário registrada
+[2025-11-09 01:15:12] [WARNING] [CACHE] [IP: 52.25.106.218] [USER: 1603] Cache limpo
+[2025-11-09 01:16:27] [WARNING] [UI] [IP: 28.74.226.157] [USER: 4818] Componente renderizado
+[2025-11-09 01:16:29] [ERROR] [NETWORK] [IP: 192.224.86.192] [USER: 8239] Pacotes perdidos
+[2025-11-09 01:16:33] [WARNING] [CACHE] [IP: 244.91.238.220] [USER: 4690] Cache atualizado
+[2025-11-09 01:17:46] [ERROR] [AUTH] [IP: 136.14.46.228] [USER: 6832] Sessão expirada
+[2025-11-09 01:18:44] [INFO] [NETWORK] [IP: 191.162.103.132] [USER: 5220] Conexão instável
+[2025-11-09 01:20:14] [INFO] [API] [IP: 234.182.205.121] [USER: 2015] Timeout na API
+[2025-11-09 01:20:49] [WARNING] [API] [IP: 129.62.246.27] [USER: 3438] Requisição recebida
+[2025-11-09 01:21:06] [ERROR] [API] [IP: 92.4.97.61] [USER: 7304] Parâmetro inválido
+[2025-11-09 01:21:44] [INFO] [UI] [IP: 53.225.150.169] [USER: 7339] Ação do usuário registrada
+[2025-11-09 01:22:44] [WARNING] [STORAGE] [IP: 197.3.131.30] [USER: 8271] Arquivo removido
+[2025-11-09 01:23:33] [ERROR] [AUTH] [IP: 107.70.89.104] [USER: 7024] Token inválido
+[2025-11-09 01:24:27] [WARNING] [API] [IP: 192.174.185.117] [USER: 3305] Requisição recebida
+[2025-11-09 01:25:50] [INFO] [DB] [IP: 39.38.42.194] [USER: 7987] Erro no banco de dados
+[2025-11-09 01:26:17] [WARNING] [API] [IP: 58.46.94.67] [USER: 6674] Parâmetro inválido
+[2025-11-09 01:26:28] [ERROR] [UI] [IP: 20.49.161.174] [USER: 9926] Ação do usuário registrada
+[2025-11-09 01:27:25] [ERROR] [STORAGE] [IP: 98.183.253.148] [USER: 6195] Arquivo removido
+[2025-11-09 01:28:53] [WARNING] [DB] [IP: 117.5.7.30] [USER: 9538] Erro no banco de dados
+[2025-11-09 01:30:00] [ERROR] [AUTH] [IP: 42.157.24.97] [USER: 2432] Falha na autenticação
+[2025-11-09 01:30:03] [ERROR] [NETWORK] [IP: 238.217.167.60] [USER: 6891] Latência elevada
+[2025-11-09 01:30:32] [WARNING] [CACHE] [IP: 103.1.164.192] [USER: 6367] Cache atualizado
+[2025-11-09 01:32:01] [INFO] [STORAGE] [IP: 170.130.250.45] [USER: 3501] Espaço insuficiente
+[2025-11-09 01:32:14] [INFO] [SECURITY] [IP: 238.49.197.208] [USER: 3991] Tentativa suspeita detectada
+[2025-11-09 01:33:28] [ERROR] [NETWORK] [IP: 84.17.201.246] [USER: 5774] Pacotes perdidos
+[2025-11-09 01:33:46] [WARNING] [DB] [IP: 148.39.116.219] [USER: 8840] Erro no banco de dados
+[2025-11-09 01:34:48] [ERROR] [SECURITY] [IP: 251.209.71.167] [USER: 2926] Tentativa suspeita detectada
+[2025-11-09 01:35:07] [ERROR] [SECURITY] [IP: 239.199.28.152] [USER: 2230] Integridade validada
+[2025-11-09 01:35:29] [WARNING] [UI] [IP: 155.124.61.42] [USER: 5141] Elemento não encontrado
+[2025-11-09 01:36:27] [WARNING] [DB] [IP: 248.57.150.254] [USER: 5775] Erro no banco de dados
+[2025-11-09 01:36:38] [WARNING] [STORAGE] [IP: 113.194.120.174] [USER: 7664] Arquivo salvo
+[2025-11-09 01:36:59] [ERROR] [UI] [IP: 234.164.11.182] [USER: 6654] Elemento não encontrado
+[2025-11-09 01:38:15] [ERROR] [UI] [IP: 74.30.41.57] [USER: 6138] Erro no carregamento da interface
+[2025-11-09 01:39:30] [INFO] [NETWORK] [IP: 194.37.243.183] [USER: 9845] Latência elevada
+[2025-11-09 01:40:43] [INFO] [NETWORK] [IP: 61.72.221.8] [USER: 6103] Latência elevada
+[2025-11-09 01:40:46] [WARNING] [API] [IP: 41.120.84.120] [USER: 7550] Parâmetro inválido
+[2025-11-09 01:41:20] [ERROR] [SECURITY] [IP: 93.174.35.129] [USER: 1059] Módulo seguro inicializado
+[2025-11-09 01:42:25] [ERROR] [NETWORK] [IP: 245.220.22.56] [USER: 7573] Conexão instável
+[2025-11-09 01:43:49] [WARNING] [DB] [IP: 241.169.82.17] [USER: 1256] Transação concluída
+[2025-11-09 01:44:23] [INFO] [API] [IP: 81.136.233.220] [USER: 1275] Resposta enviada
+[2025-11-09 01:44:30] [INFO] [NETWORK] [IP: 62.119.52.146] [USER: 1472] Falha na comunicação
+[2025-11-09 01:44:48] [WARNING] [UI] [IP: 59.151.65.75] [USER: 1936] Erro no carregamento da interface
+[2025-11-09 01:46:08] [ERROR] [NETWORK] [IP: 187.174.248.228] [USER: 7549] Latência elevada
+[2025-11-09 01:47:38] [ERROR] [CACHE] [IP: 172.234.213.91] [USER: 2692] Item removido do cache
+[2025-11-09 01:47:56] [WARNING] [API] [IP: 92.130.241.186] [USER: 6980] Parâmetro inválido
+[2025-11-09 01:49:06] [ERROR] [CACHE] [IP: 6.5.238.106] [USER: 6106] Falha no cache
+[2025-11-09 01:49:08] [ERROR] [STORAGE] [IP: 194.40.79.79] [USER: 7119] Arquivo salvo
+[2025-11-09 01:49:56] [ERROR] [CACHE] [IP: 22.36.51.187] [USER: 1210] Cache atualizado
+[2025-11-09 01:51:08] [ERROR] [CACHE] [IP: 192.86.248.166] [USER: 2547] Cache inválido
+[2025-11-09 01:51:55] [ERROR] [API] [IP: 26.126.60.116] [USER: 2810] Timeout na API
+[2025-11-09 01:52:13] [INFO] [SECURITY] [IP: 86.164.166.70] [USER: 1805] Acesso negado
+[2025-11-09 01:52:36] [ERROR] [SECURITY] [IP: 111.223.164.75] [USER: 8630] Integridade validada
+[2025-11-09 01:53:25] [WARNING] [DB] [IP: 194.245.98.237] [USER: 2035] Falha ao gravar registro
+[2025-11-09 01:54:27] [INFO] [AUTH] [IP: 45.152.156.213] [USER: 1871] Logout realizado
+[2025-11-09 01:55:46] [ERROR] [API] [IP: 82.143.255.222] [USER: 7976] Parâmetro inválido
+[2025-11-09 01:56:24] [ERROR] [CACHE] [IP: 204.113.243.52] [USER: 7827] Cache limpo
+[2025-11-09 01:57:09] [ERROR] [STORAGE] [IP: 13.87.23.121] [USER: 8145] Arquivo salvo
+[2025-11-09 01:57:35] [INFO] [UI] [IP: 236.61.76.243] [USER: 5235] Layout atualizado
+[2025-11-09 01:58:36] [WARNING] [STORAGE] [IP: 153.252.174.168] [USER: 1683] Backup concluído
+[2025-11-09 01:59:10] [WARNING] [API] [IP: 64.41.152.156] [USER: 9899] Timeout na API
+[2025-11-09 01:59:20] [INFO] [AUTH] [IP: 51.3.251.89] [USER: 2869] Token inválido
+[2025-11-09 02:00:33] [WARNING] [CACHE] [IP: 28.108.100.65] [USER: 1910] Item removido do cache
+[2025-11-09 02:01:08] [INFO] [SECURITY] [IP: 238.98.146.158] [USER: 6524] Alerta de segurança
+[2025-11-09 02:02:33] [INFO] [NETWORK] [IP: 240.27.222.64] [USER: 2825] Conexão instável
+[2025-11-09 02:04:02] [ERROR] [CACHE] [IP: 164.1.187.255] [USER: 2957] Cache inválido
+[2025-11-09 02:04:17] [WARNING] [STORAGE] [IP: 130.215.3.152] [USER: 9948] Arquivo salvo
+[2025-11-09 02:04:48] [ERROR] [SECURITY] [IP: 116.55.214.128] [USER: 9438] Alerta de segurança
+[2025-11-09 02:06:18] [WARNING] [UI] [IP: 68.222.205.163] [USER: 2964] Componente renderizado
+[2025-11-09 02:07:26] [INFO] [NETWORK] [IP: 78.40.253.191] [USER: 7117] Conexão instável
+[2025-11-09 02:07:46] [WARNING] [CACHE] [IP: 23.234.122.94] [USER: 9150] Cache limpo
+[2025-11-09 02:08:25] [ERROR] [NETWORK] [IP: 232.61.95.204] [USER: 6427] Rede reestabelecida
+[2025-11-09 02:09:10] [WARNING] [NETWORK] [IP: 50.242.210.55] [USER: 3795] Conexão instável
+[2025-11-09 02:09:41] [INFO] [AUTH] [IP: 16.17.140.189] [USER: 6232] Logout realizado
+[2025-11-09 02:09:47] [INFO] [STORAGE] [IP: 233.243.60.84] [USER: 5069] Espaço insuficiente
+[2025-11-09 02:11:14] [ERROR] [API] [IP: 187.42.134.250] [USER: 4980] Falha na comunicação
+[2025-11-09 02:11:20] [ERROR] [AUTH] [IP: 85.185.241.171] [USER: 3873] Falha na autenticação
+[2025-11-09 02:12:30] [INFO] [UI] [IP: 127.146.169.15] [USER: 1574] Ação do usuário registrada
+[2025-11-09 02:12:33] [ERROR] [SECURITY] [IP: 38.166.244.112] [USER: 3479] Acesso negado
+[2025-11-09 02:13:25] [INFO] [AUTH] [IP: 229.151.58.14] [USER: 9286] Token inválido
+[2025-11-09 02:14:33] [ERROR] [CACHE] [IP: 91.201.194.138] [USER: 6055] Falha no cache
+[2025-11-09 02:15:21] [WARNING] [NETWORK] [IP: 140.212.188.129] [USER: 2211] Falha na comunicação
+[2025-11-09 02:15:59] [ERROR] [SECURITY] [IP: 180.146.22.91] [USER: 4705] Módulo seguro inicializado
+[2025-11-09 02:16:40] [WARNING] [AUTH] [IP: 65.186.2.49] [USER: 3903] Token inválido
+[2025-11-09 02:17:53] [WARNING] [NETWORK] [IP: 197.242.61.209] [USER: 9813] Conexão instável
+[2025-11-09 02:19:21] [WARNING] [NETWORK] [IP: 90.246.147.215] [USER: 2918] Rede reestabelecida
+[2025-11-09 02:20:28] [WARNING] [STORAGE] [IP: 108.22.220.211] [USER: 4400] Backup concluído
+[2025-11-09 02:20:53] [INFO] [AUTH] [IP: 164.162.114.211] [USER: 8409] Token inválido
+[2025-11-09 02:21:27] [WARNING] [STORAGE] [IP: 93.102.36.55] [USER: 3006] Arquivo removido
+[2025-11-09 02:22:11] [ERROR] [UI] [IP: 118.49.254.90] [USER: 4407] Componente renderizado
+[2025-11-09 02:22:42] [INFO] [CACHE] [IP: 222.120.143.174] [USER: 5894] Cache atualizado
+[2025-11-09 02:24:03] [INFO] [STORAGE] [IP: 225.236.133.11] [USER: 9082] Erro ao acessar armazenamento
+[2025-11-09 02:24:41] [ERROR] [CACHE] [IP: 141.116.166.239] [USER: 6752] Cache inválido
+[2025-11-09 02:25:30] [INFO] [STORAGE] [IP: 16.38.143.151] [USER: 1253] Backup concluído
+[2025-11-09 02:25:45] [ERROR] [API] [IP: 211.252.187.235] [USER: 7331] Parâmetro inválido
+[2025-11-09 02:26:02] [INFO] [CACHE] [IP: 120.103.81.190] [USER: 8829] Cache limpo
+[2025-11-09 02:26:33] [ERROR] [NETWORK] [IP: 226.231.225.78] [USER: 4229] Latência elevada
+[2025-11-09 02:26:36] [ERROR] [NETWORK] [IP: 87.46.122.192] [USER: 9073] Conexão instável
+[2025-11-09 02:26:45] [WARNING] [AUTH] [IP: 51.212.189.160] [USER: 7174] Falha na autenticação
+[2025-11-09 02:27:52] [WARNING] [AUTH] [IP: 245.110.216.77] [USER: 1821] Sessão expirada
+[2025-11-09 02:28:00] [WARNING] [NETWORK] [IP: 122.225.52.192] [USER: 1101] Conexão instável
+[2025-11-09 02:28:59] [INFO] [SECURITY] [IP: 231.69.49.42] [USER: 9037] Integridade validada
+[2025-11-09 02:29:01] [INFO] [AUTH] [IP: 48.69.220.85] [USER: 2207] Falha na autenticação
+[2025-11-09 02:29:40] [ERROR] [NETWORK] [IP: 240.248.221.116] [USER: 1994] Conexão instável
+[2025-11-09 02:29:46] [INFO] [STORAGE] [IP: 29.26.224.2] [USER: 3936] Erro ao acessar armazenamento
+[2025-11-09 02:31:07] [ERROR] [UI] [IP: 222.230.239.179] [USER: 3714] Ação do usuário registrada
+[2025-11-09 02:32:37] [ERROR] [API] [IP: 94.214.71.210] [USER: 3773] Resposta enviada
+[2025-11-09 02:33:10] [ERROR] [CACHE] [IP: 162.27.55.69] [USER: 3844] Item removido do cache
+[2025-11-09 02:34:15] [WARNING] [SECURITY] [IP: 27.131.59.139] [USER: 1009] Alerta de segurança
+[2025-11-09 02:35:41] [ERROR] [UI] [IP: 88.222.214.164] [USER: 4122] Componente renderizado
+[2025-11-09 02:36:13] [INFO] [AUTH] [IP: 145.175.96.177] [USER: 1878] Sessão expirada
+[2025-11-09 02:36:18] [INFO] [API] [IP: 226.62.190.160] [USER: 1146] Falha na comunicação
+[2025-11-09 02:36:29] [WARNING] [STORAGE] [IP: 68.194.248.141] [USER: 1542] Espaço insuficiente
+[2025-11-09 02:37:35] [WARNING] [SECURITY] [IP: 218.177.204.159] [USER: 4659] Alerta de segurança
+[2025-11-09 02:38:48] [INFO] [API] [IP: 27.226.194.122] [USER: 2993] Parâmetro inválido
+[2025-11-09 02:39:51] [WARNING] [SECURITY] [IP: 187.249.112.107] [USER: 4392] Integridade validada
+[2025-11-09 02:41:19] [ERROR] [API] [IP: 252.104.192.244] [USER: 3601] Falha na comunicação
+[2025-11-09 02:42:11] [INFO] [UI] [IP: 22.115.157.92] [USER: 2097] Componente renderizado
+[2025-11-09 02:43:29] [WARNING] [NETWORK] [IP: 197.215.113.219] [USER: 5934] Latência elevada
+[2025-11-09 02:44:41] [ERROR] [DB] [IP: 35.71.245.162] [USER: 1448] Transação concluída
+[2025-11-09 02:44:50] [WARNING] [DB] [IP: 16.248.120.168] [USER: 8106] Erro no banco de dados
+[2025-11-09 02:45:59] [ERROR] [SECURITY] [IP: 172.122.100.67] [USER: 6651] Acesso negado
+[2025-11-09 02:47:26] [INFO] [UI] [IP: 255.196.108.32] [USER: 9051] Layout atualizado
+[2025-11-09 02:48:43] [ERROR] [API] [IP: 61.162.221.13] [USER: 9589] Resposta enviada
+[2025-11-09 02:49:38] [ERROR] [API] [IP: 83.106.89.4] [USER: 4243] Resposta enviada
+[2025-11-09 02:49:42] [WARNING] [CACHE] [IP: 187.127.90.118] [USER: 7010] Falha no cache
+[2025-11-09 02:49:45] [WARNING] [DB] [IP: 124.135.74.253] [USER: 6562] Conexão perdida
+[2025-11-09 02:50:55] [ERROR] [CACHE] [IP: 6.39.222.135] [USER: 6673] Cache inválido
+[2025-11-09 02:52:19] [INFO] [UI] [IP: 46.237.241.143] [USER: 5727] Erro no carregamento da interface
+[2025-11-09 02:52:22] [INFO] [UI] [IP: 125.5.79.245] [USER: 4298] Componente renderizado
+[2025-11-09 02:52:36] [WARNING] [CACHE] [IP: 53.191.168.36] [USER: 8709] Falha no cache
+[2025-11-09 02:53:05] [INFO] [STORAGE] [IP: 114.10.101.134] [USER: 9305] Arquivo salvo
+[2025-11-09 02:53:07] [WARNING] [DB] [IP: 17.255.38.70] [USER: 3308] Erro no banco de dados
+[2025-11-09 02:53:59] [INFO] [STORAGE] [IP: 43.93.221.141] [USER: 1525] Arquivo removido
+[2025-11-09 02:55:16] [WARNING] [API] [IP: 251.252.193.31] [USER: 5562] Falha na comunicação
+[2025-11-09 02:56:02] [ERROR] [DB] [IP: 222.69.184.55] [USER: 3908] Transação concluída
+[2025-11-09 02:56:18] [ERROR] [API] [IP: 176.119.157.20] [USER: 6028] Resposta enviada
+[2025-11-09 02:57:04] [INFO] [UI] [IP: 109.82.204.132] [USER: 6082] Erro no carregamento da interface
+[2025-11-09 02:57:23] [ERROR] [UI] [IP: 238.166.70.182] [USER: 3445] Erro no carregamento da interface
+[2025-11-09 02:58:34] [ERROR] [API] [IP: 172.124.175.179] [USER: 6944] Resposta enviada
+[2025-11-09 02:59:35] [ERROR] [STORAGE] [IP: 200.212.96.216] [USER: 6863] Backup concluído
+[2025-11-09 03:00:36] [INFO] [CACHE] [IP: 71.248.250.67] [USER: 1784] Item removido do cache
+[2025-11-09 03:01:59] [ERROR] [STORAGE] [IP: 119.168.225.194] [USER: 1211] Erro ao acessar armazenamento
+[2025-11-09 03:02:34] [ERROR] [SECURITY] [IP: 153.62.123.21] [USER: 1218] Alerta de segurança
+[2025-11-09 03:03:18] [INFO] [AUTH] [IP: 21.33.9.235] [USER: 6357] Usuário autenticado

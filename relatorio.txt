@@ -1,0 +1,3 @@
+Quantidade INFO -> 0!
+Quantidade ERROR -> 0!
+Quantidade WARNING -> 0!
