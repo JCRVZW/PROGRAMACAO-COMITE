@@ -1,0 +1,6 @@
+nome | da
+nota1 | 2.00
+nota2 | 4.00
+nota3 | 5.00
+media | 3.67
+status | Reprovado

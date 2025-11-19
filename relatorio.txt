@@ -1,3 +1,4 @@
-Quantidade INFO -> 0!
-Quantidade ERROR -> 0!
-Quantidade WARNING -> 0!
+Relatório de LOGS
+Existem 170 ocorrências de log INFO!
+Existem 171 ocorrências de log ERROR!
+Existem 159 ocorrências de log WARNING!

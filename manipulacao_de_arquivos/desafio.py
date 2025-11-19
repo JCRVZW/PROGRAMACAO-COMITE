@@ -3,9 +3,11 @@ def log(nome):
 
         log = arquivo.readlines()
 
-        resultados = ("INFO": 0,
-                       "ERROR": 0,
-                         "WARNING": 0)
+        resultados = {
+                "INFO": 0,
+                "ERROR": 0,
+                "WARNING": 0
+     }
         
         for linha in log:
             if "INFO" in linha:
@@ -16,19 +18,20 @@ def log(nome):
                 resultados["WARNING"] += 1
 
     return resultados
-def gerar():
-        with open("relatorio.txt", "w") as arquivo:
-            arquivo.write(f"Relatório de LOGS\n")
-            for chave, valor in resultados.items():
-                arquivo.write(f"Existem {chave} ocorrências de log {valor}!\n")
-
-        print("Relatório criado!")
+def gerar(resultados):
+    with open("relatorio.txt", "w") as arquivo:
+        arquivo.write(f"Relatório de LOGS\n")
         for chave, valor in resultados.items():
-            arquivo.write(f"Existem {chave} ocorrências de log {valor}!\n")
+            arquivo.write(f"Existem {valor} ocorrências de log {chave}!\n")
+
+    for chave, valor in resultados.items():
+            print (f"Existem {valor} ocorrências de log {chave}!")
+
 
 def main():
-    nome_arquivo = "log_5000.txt"
+    nome_arquivo = "log_500.txt"
     resultados = log(nome_arquivo)
     gerar(resultados)
+main()
     
     
