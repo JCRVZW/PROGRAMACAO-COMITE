@@ -8,11 +8,11 @@ produtos = {
 }
 
 def main(page: ft.Page):
-    page.title = "PDV — Mercado Colorido"
+    page.title = "PDV — Mercado Marvel"
     page.window_width = 1280
     page.window_height = 720
     page.padding = 0
-    page.bgcolor = ft.Colors.BLACK
+    page.bgcolor = "#0A1A2F"  # fundo azul escuro
 
     carrinho = []
     total_value = 0.0
@@ -20,7 +20,7 @@ def main(page: ft.Page):
     valor_caixa = 0.0
 
     # --- Funções de estilo ---
-    def painel_titulo(texto, cor="#FF00FF"):
+    def painel_titulo(texto, cor="#1E88E5"):  # azul claro
         return ft.Container(
             alignment=ft.alignment.center,
             bgcolor=cor,
@@ -43,13 +43,13 @@ def main(page: ft.Page):
             ft.DataColumn(ft.Text("Total", weight="bold")),
         ],
         rows=[],
-        border=ft.border.all(1, "gray"),
+        border=ft.border.all(1, "#1E3A5F"),  # azul mais claro
         column_spacing=10,
         vertical_lines=True,
         horizontal_lines=True,
     )
 
-    aviso_produto = ft.Text("", size=16, color="red")
+    aviso_produto = ft.Text("", size=16, color="#FF5555")  # alerta vermelho suave
 
     def atualizar_tabela():
         nonlocal total_value
@@ -61,12 +61,12 @@ def main(page: ft.Page):
             tabela_pdv.rows.append(
                 ft.DataRow(
                     cells=[
-                        ft.DataCell(ft.Text(str(i))),
-                        ft.DataCell(ft.Text(item["codigo"])),
-                        ft.DataCell(ft.Text(item["nome"])),
-                        ft.DataCell(ft.Text(str(item["qtd"]))),
-                        ft.DataCell(ft.Text(f"R$ {item['preco']:.2f}")),
-                        ft.DataCell(ft.Text(f"R$ {subtotal:.2f}")),
+                        ft.DataCell(ft.Text(str(i), color="white")),
+                        ft.DataCell(ft.Text(item["codigo"], color="white")),
+                        ft.DataCell(ft.Text(item["nome"], color="white")),
+                        ft.DataCell(ft.Text(str(item["qtd"]), color="white")),
+                        ft.DataCell(ft.Text(f"R$ {item['preco']:.2f}", color="white")),
+                        ft.DataCell(ft.Text(f"R$ {subtotal:.2f}", color="white")),
                     ]
                 )
             )
@@ -102,10 +102,27 @@ def main(page: ft.Page):
         campo_codigo.value = ""
         adicionar_produto(codigo)
 
-    campo_codigo = ft.TextField(bgcolor="#FF33AA", border_radius=10, hint_text="Digite ou escaneie o código", on_submit=on_submit)
-    valor_unitario = ft.Text("R$ 0,00", size=20, weight="bold", color="#00FFDD")
-    total_item = ft.Text("R$ 0,00", size=20, weight="bold", color="#00FFDD")
-    campo_recebido = ft.TextField(bgcolor="#FF33AA", border_radius=10, hint_text="Valor recebido")
+    campo_codigo = ft.TextField(
+        bgcolor="#12263A",
+        border_color="#1E88E5",
+        color="white",
+        border_radius=10,
+        hint_text="Digite ou escaneie o código",
+        hint_style=ft.TextStyle(color="#9BBAD1"),
+        on_submit=on_submit,
+    )
+
+    valor_unitario = ft.Text("R$ 0,00", size=20, weight="bold", color="#64B5F6")
+    total_item = ft.Text("R$ 0,00", size=20, weight="bold", color="#64B5F6")
+
+    campo_recebido = ft.TextField(
+        bgcolor="#12263A",
+        border_color="#1E88E5",
+        color="white",
+        border_radius=10,
+        hint_text="Valor recebido",
+        hint_style=ft.TextStyle(color="#9BBAD1"),
+    )
 
     def calcular_troco(e):
         try:
@@ -117,24 +134,24 @@ def main(page: ft.Page):
             aviso_produto.value = "Valor recebido inválido!"
             page.update()
 
-    subtotal_text = ft.Text("R$ 0,00", size=30, weight="bold", color="#FFFF00")
-    troco_text = ft.Text("R$ 0,00", size=30, weight="bold", color="#FFFF00")
+    subtotal_text = ft.Text("R$ 0,00", size=30, weight="bold", color="#64B5F6")
+    troco_text = ft.Text("R$ 0,00", size=30, weight="bold", color="#64B5F6")
 
-    # --- Painéis ---
+    # --- Painel esquerdo ---
     painel_esquerdo = ft.Container(
         width=350,
         padding=20,
-        bgcolor="#551A8B",
+        bgcolor="#12263A",
         border_radius=15,
         content=ft.Column([
-            painel_titulo("CÓDIGO DE BARRAS", "#FF007F"),
+            painel_titulo("CÓDIGO DE BARRAS"),
             campo_codigo,
             aviso_produto,
             ft.Divider(height=20, color="transparent"),
-            painel_titulo("VALOR UNITÁRIO", "#FF4500"),
+            painel_titulo("VALOR UNITÁRIO"),
             valor_unitario,
             ft.Divider(height=20, color="transparent"),
-            painel_titulo("TOTAL DO ITEM", "#00CED1"),
+            painel_titulo("TOTAL DO ITEM"),
             total_item,
             ft.Container(expand=True),
         ]),
@@ -144,9 +161,9 @@ def main(page: ft.Page):
         expand=True,
         padding=10,
         content=ft.Column([
-            painel_titulo("LISTA DE PRODUTOS", "#7FFF00"),
+            painel_titulo("LISTA DE PRODUTOS"),
             ft.Container(
-                bgcolor="#222222",
+                bgcolor="#1A2E45",
                 padding=10,
                 border_radius=15,
                 content=ft.Column([tabela_pdv], scroll="auto", expand=True),
@@ -157,15 +174,23 @@ def main(page: ft.Page):
 
     painel_inferior = ft.Container(
         height=180,
-        bgcolor="#551A8B",
+        bgcolor="#12263A",
         padding=20,
         border_radius=15,
         content=ft.Row(
             alignment="spaceBetween",
             controls=[
                 ft.Column([campo_label("SUBTOTAL"), subtotal_text]),
-                ft.Column([campo_label("TOTAL RECEBIDO"), campo_recebido,
-                           ft.ElevatedButton("Calcular Troco", on_click=calcular_troco, bgcolor="#FF33AA")]),
+                ft.Column([
+                    campo_label("TOTAL RECEBIDO"),
+                    campo_recebido,
+                    ft.ElevatedButton(
+                        "Calcular Troco",
+                        on_click=calcular_troco,
+                        bgcolor="#1976D2",
+                        color="white"
+                    ),
+                ]),
                 ft.Column([campo_label("TROCO"), troco_text]),
             ],
         ),
@@ -176,15 +201,15 @@ def main(page: ft.Page):
     # --- Aba Estoque ---
     estoque_tabela = ft.DataTable(
         columns=[
-            ft.DataColumn(ft.Text("Código", weight="bold")),
-            ft.DataColumn(ft.Text("Descrição", weight="bold")),
-            ft.DataColumn(ft.Text("Estoque", weight="bold")),
-            ft.DataColumn(ft.Text("Preço", weight="bold")),
+            ft.DataColumn(ft.Text("Código", weight="bold", color="white")),
+            ft.DataColumn(ft.Text("Descrição", weight="bold", color="white")),
+            ft.DataColumn(ft.Text("Estoque", weight="bold", color="white")),
+            ft.DataColumn(ft.Text("Preço", weight="bold", color="white")),
         ],
         rows=[],
         vertical_lines=True,
         horizontal_lines=True,
-        border=ft.border.all(1, "gray"),
+        border=ft.border.all(1, "#1E3A5F"),
     )
 
     def atualizar_estoque():
@@ -192,10 +217,10 @@ def main(page: ft.Page):
         for cod, p in produtos.items():
             estoque_tabela.rows.append(
                 ft.DataRow(cells=[
-                    ft.DataCell(ft.Text(cod)),
-                    ft.DataCell(ft.Text(p["nome"])),
-                    ft.DataCell(ft.Text(str(p["estoque"]))),
-                    ft.DataCell(ft.Text(f"R$ {p['preco']:.2f}")),
+                    ft.DataCell(ft.Text(cod, color="white")),
+                    ft.DataCell(ft.Text(p["nome"], color="white")),
+                    ft.DataCell(ft.Text(str(p["estoque"]), color="white")),
+                    ft.DataCell(ft.Text(f"R$ {p['preco']:.2f}", color="white")),
                 ])
             )
         page.update()
@@ -203,9 +228,9 @@ def main(page: ft.Page):
     atualizar_estoque()
 
     aba_estoque = ft.Column([
-        painel_titulo("ESTOQUE DISPONÍVEL", "#00FF7F"),
+        painel_titulo("ESTOQUE DISPONÍVEL"),
         ft.Container(
-            bgcolor="#222222",
+            bgcolor="#1A2E45",
             padding=10,
             border_radius=15,
             content=ft.Column([estoque_tabela], scroll="auto", expand=True),
@@ -214,10 +239,20 @@ def main(page: ft.Page):
     ], expand=True)
 
     # --- Aba Produtos ---
-    campo_cod_prod = ft.TextField(label="Código", width=300)
-    campo_nome_prod = ft.TextField(label="Nome", width=300)
-    campo_preco_prod = ft.TextField(label="Preço", width=300)
-    campo_estoque_prod = ft.TextField(label="Estoque", width=300)
+    def criar_input(label):
+        return ft.TextField(
+            label=label,
+            width=300,
+            bgcolor="#12263A",
+            border_color="#1E88E5",
+            color="white",
+            hint_style=ft.TextStyle(color="#9BBAD1"),
+        )
+
+    campo_cod_prod = criar_input("Código")
+    campo_nome_prod = criar_input("Nome")
+    campo_preco_prod = criar_input("Preço")
+    campo_estoque_prod = criar_input("Estoque")
 
     def adicionar_produto_novo(e):
         cod = campo_cod_prod.value.strip()
@@ -237,15 +272,20 @@ def main(page: ft.Page):
         campo_estoque_prod.value = ""
         page.update()
 
-    btn_add_produto = ft.ElevatedButton("Adicionar Produto", on_click=adicionar_produto_novo, bgcolor="#FF33AA")
+    btn_add_produto = ft.ElevatedButton(
+        "Adicionar Produto",
+        on_click=adicionar_produto_novo,
+        bgcolor="#1976D2",
+        color="white"
+    )
 
     aba_produtos = ft.Column([
-        painel_titulo("PRODUTOS", "#FF1493"),
+        painel_titulo("PRODUTOS"),
         ft.Column([campo_cod_prod, campo_nome_prod, campo_preco_prod, campo_estoque_prod, btn_add_produto]),
         ft.Divider(height=20),
         ft.Text("Produtos existentes:", size=18, weight="bold", color="white"),
         ft.Container(
-            bgcolor="#222222",
+            bgcolor="#1A2E45",
             padding=10,
             border_radius=15,
             content=ft.Column([estoque_tabela], scroll="auto", expand=True),
@@ -254,8 +294,10 @@ def main(page: ft.Page):
     ], expand=True)
 
     # --- Aba Caixa ---
-    campo_caixa_inicial = ft.TextField(label="Valor Inicial do Caixa", width=300)
-    campo_caixa_final = ft.TextField(label="Valor Final", width=300, disabled=True)
+    campo_caixa_inicial = criar_input("Valor Inicial do Caixa")
+    campo_caixa_final = criar_input("Valor Final")
+    campo_caixa_final.disabled = True
+
     resumo_caixa = ft.Text("", size=16, color="white")
 
     def abrir_caixa(e):
@@ -282,11 +324,11 @@ def main(page: ft.Page):
         atualizar_estoque()
         page.update()
 
-    btn_abrir = ft.ElevatedButton("Abrir Caixa", on_click=abrir_caixa, bgcolor="#FF33AA")
-    btn_fechar = ft.ElevatedButton("Fechar Caixa", on_click=fechar_caixa, bgcolor="#FF33AA")
+    btn_abrir = ft.ElevatedButton("Abrir Caixa", on_click=abrir_caixa, bgcolor="#1976D2", color="white")
+    btn_fechar = ft.ElevatedButton("Fechar Caixa", on_click=fechar_caixa, bgcolor="#1976D2", color="white")
 
     aba_caixa = ft.Column([
-        painel_titulo("CAIXA", "#FF69B4"),
+        painel_titulo("CAIXA"),
         campo_caixa_inicial,
         btn_abrir,
         campo_caixa_final,
@@ -294,7 +336,7 @@ def main(page: ft.Page):
         resumo_caixa,
     ], expand=True)
 
-    # --- TABS ---
+    # --- Abas ---
     abas = ft.Tabs(
         selected_index=0,
         animation_duration=300,
@@ -304,12 +346,13 @@ def main(page: ft.Page):
             ft.Tab(text="Produtos", content=aba_produtos),
             ft.Tab(text="Caixa", content=aba_caixa),
         ],
-        indicator_color="#FF00FF",
-        label_color="#FF00FF",
-        unselected_label_color="white",
+        indicator_color="#1E88E5",
+        label_color="white",
+        unselected_label_color="#9BBAD1",
     )
 
     page.add(abas)
     page.update()
 
 ft.app(target=main)
+
